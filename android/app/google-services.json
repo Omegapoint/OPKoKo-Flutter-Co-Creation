@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "616246481846",
+    "project_id": "opkoko-flutter-co-creation",
+    "storage_bucket": "opkoko-flutter-co-creation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616246481846:android:87a8d32af74b83ba062717",
+        "android_client_info": {
+          "package_name": "com.example.opkoko_flutter_co_creation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616246481846-4fctp6c8s0ac70m5p9vs449ukmatluj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5hmhWxkmlDTCnXfbTLjJOdh1w9wIUrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616246481846-4fctp6c8s0ac70m5p9vs449ukmatluj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616246481846-ea6cv99ijs25vmj2uoh08o018cfqmc2g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.opkokoFlutterCoCreation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
